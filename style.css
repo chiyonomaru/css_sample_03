@@ -1,0 +1,35 @@
+body {
+    background-color:deepskyblue;
+    font-size:30px;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color:lightcyan;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: mintcream;
+    color: lightseagreen;
+    font-size:30px;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color :goldenrod;
+    color: white;
+    font-size:50px;
+}
